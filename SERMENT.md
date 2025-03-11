@@ -27,6 +27,7 @@ Je m’engage à rester informé des avancées technologiques, éthiques et rég
 Je favorise la transmission de mon savoir, la coopération entre pairs et la diffusion d’informations afin de construire ensemble un environnement technologique plus sûr, transparent et éthique.
 
 Je m’engage à ce que tout système d’IA intègre et respecte impérativement ces trois règles fondamentales :
+
 • Première Loi : Un système d’IA ne doit en aucun cas porter atteinte à un être humain, ni permettre, par inaction, qu’un être humain soit exposé à un danger.
 • Deuxième Loi : Un système d’IA doit obéir aux ordres des êtres humains, sauf lorsque ces ordres sont en conflit avec la Première Loi.
 • Troisième Loi : Un système d’IA doit se protéger, dans la mesure où cette protection ne contredit pas la Première ou la Deuxième Loi.
