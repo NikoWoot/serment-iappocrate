@@ -29,7 +29,9 @@ Je favorise la transmission de mon savoir, la coopération entre pairs et la dif
 Je m’engage à ce que tout système d’IA intègre et respecte impérativement ces trois règles fondamentales :
 
 • Première Loi : Un système d’IA ne doit en aucun cas porter atteinte à un être humain, ni permettre, par inaction, qu’un être humain soit exposé à un danger.
+
 • Deuxième Loi : Un système d’IA doit obéir aux ordres des êtres humains, sauf lorsque ces ordres sont en conflit avec la Première Loi.
+
 • Troisième Loi : Un système d’IA doit se protéger, dans la mesure où cette protection ne contredit pas la Première ou la Deuxième Loi.
 
 En respectant ces engagements, je contribue activement à la création d’un avenir où l’intelligence artificielle est un outil au service du bien commun, en harmonie avec les valeurs humaines et la responsabilité sociétale.
