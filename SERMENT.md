@@ -1,6 +1,15 @@
 Serment de IAppocrate
 Par Nicolas GAUTIER, le 11/03/2025, au West Data Festival 2025 (LAVAL)
 ==============
+---
+title: "Serment de IAppocrate"
+description: Le premier serment pour une IA Ethique - West Data Festival 2025 (LAVAL)
+author: "Nicolas GAUTIER"
+date: "2025-03-11"
+highlight: true
+tags: ["ia", "serment", "laval"]
+---
+
 
 Je jure, en tant que créateur, utilisateur et acteur du développement des technologies d’IA, de respecter et de promouvoir les principes suivants :
  
